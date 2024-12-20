@@ -4,7 +4,7 @@ replicaCount: 1
 image:
   repository: zxsi2003/api-tester
   pullPolicy: Always
-  tag: v1.0.0
+  tag: 1.1.1-241221.210126
 
 resources:
   limits:
